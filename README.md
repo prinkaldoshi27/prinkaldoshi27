@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **App and Web Developer**
  
- 🌱 I’m currently learning **to build completely type-safe and scalable web applicationsS**
+ 🌱 I’m currently learning **to build completely type-safe and scalable web applications**
 
 💬 Ask me about **React, Firebase, Next.js**
 
